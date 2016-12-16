@@ -1,0 +1,6 @@
+c:\users\ozcevik\documents\visual studio 2015\Projects\almpr\almpr\bin\Debug\almpr.exe.config
+c:\users\ozcevik\documents\visual studio 2015\Projects\almpr\almpr\obj\Debug\almpr.csprojResolveAssemblyReference.cache
+c:\users\ozcevik\documents\visual studio 2015\Projects\almpr\almpr\bin\Debug\almpr.exe
+c:\users\ozcevik\documents\visual studio 2015\Projects\almpr\almpr\bin\Debug\almpr.pdb
+c:\users\ozcevik\documents\visual studio 2015\Projects\almpr\almpr\obj\Debug\almpr.exe
+c:\users\ozcevik\documents\visual studio 2015\Projects\almpr\almpr\obj\Debug\almpr.pdb
